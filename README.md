@@ -9,9 +9,7 @@ SpaceIDE
 [![Build Status](https://travis-ci.org/Creeplays/SpaceIDE.svg?branch=master)](https://travis-ci.org/Creeplays/SpaceIDE)
 [![Known Vulnerabilities](https://snyk.io/test/github/creeplays/spaceide/badge.svg)](https://snyk.io/test/github/creeplays/spaceide)
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/aH8TwSzvuyDZ2AxVx9dQWCp6/Creeplays/SpaceIDE'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/aH8TwSzvuyDZ2AxVx9dQWCp6/Creeplays/SpaceIDE.svg' />
-</a>
+
 
 A rewrite of the awesome chaoscollective's Space Editor
 > Source is messy, will eat your cat!
