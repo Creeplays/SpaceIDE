@@ -26,7 +26,7 @@
     "extract-text-webpack-plugin": "^3.0.0",
     "html-webpack-plugin": "^2.29.0",
     "inferno": "^3.6.3",
-    "inferno-compat": "^3.6.3",
+    "inferno-compat": "^4.0.0",
     "inferno-helmet": "^4.0.2",
     "inferno-mobx": "^3.6.3",
     "inferno-router": "^3.6.3",
