@@ -29,7 +29,7 @@
     "inferno-compat": "^3.6.3",
     "inferno-helmet": "^4.0.2",
     "inferno-mobx": "^3.6.3",
-    "inferno-router": "^3.6.3",
+    "inferno-router": "^4.0.0",
     "less": "^2.7.2",
     "less-loader": "^4.0.4",
     "mobx": "^3.1.16",
