@@ -27,7 +27,7 @@
     "html-webpack-plugin": "^2.29.0",
     "inferno": "^3.6.3",
     "inferno-compat": "^3.6.3",
-    "inferno-helmet": "^4.0.2",
+    "inferno-helmet": "^5.2.0",
     "inferno-mobx": "^3.6.3",
     "inferno-router": "^3.6.3",
     "less": "^2.7.2",
