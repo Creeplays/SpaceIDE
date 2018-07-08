@@ -4,7 +4,9 @@
   "description": "SpaceIDE",
   "main": "index.js",
   "scripts": {
-    "build-watch": "webpack --config webpack/webpack.client-server.js --progress -w"
+    "build-watch": "webpack --config webpack/webpack.client-server.js --progress -w",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -52,6 +54,8 @@
     "webpack": "^3.0.0",
     "webpack-dev-server": "^2.5.0",
     "webpack-node-externals": "^1.6.0",
-    "webpack-stats-plugin": "^0.1.5"
-  }
+    "webpack-stats-plugin": "^0.1.5",
+    "snyk": "^1.88.2"
+  },
+  "snyk": true
 }
