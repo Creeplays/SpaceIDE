@@ -49,7 +49,7 @@
     "tslib": "^1.7.1",
     "typescript": "^2.4.1",
     "uws": "^8.14.0",
-    "webpack": "^3.0.0",
+    "webpack": "^4.0.0",
     "webpack-dev-server": "^2.5.0",
     "webpack-node-externals": "^1.6.0",
     "webpack-stats-plugin": "^0.1.5"
